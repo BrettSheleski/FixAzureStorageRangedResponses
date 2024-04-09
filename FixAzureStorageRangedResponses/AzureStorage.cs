@@ -1,7 +1,6 @@
 using Microsoft.WindowsAzure.Storage;
 using Microsoft.WindowsAzure.Storage.Blob;
 using Microsoft.WindowsAzure.Storage.Shared.Protocol;
-using System.Diagnostics;
 
 namespace FixAzureStorageRangedResponses
 {
